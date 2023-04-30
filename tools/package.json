@@ -1,0 +1,14 @@
+{
+  "name": "lol-champions",
+  "version": "1.0.0",
+  "description": "The champion data are stored in [champions.json](champions.json).",
+  "main": "convert.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "^21.1.1"
+  }
+}

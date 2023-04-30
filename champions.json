@@ -1,0 +1,1321 @@
+[
+  {
+    "name": "Alistar",
+    "alias": "the Minotaur",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Annie",
+    "alias": "the Dark Child",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Ashe",
+    "alias": "the Frost Archer",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Fiddlesticks",
+    "alias": "the Ancient Fear",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Jax",
+    "alias": "Grandmaster at Arms",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Kayle",
+    "alias": "the Righteous",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Master Yi",
+    "alias": "the Wuju Bladesman",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Morgana",
+    "alias": "the Fallen",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Nunu & Willump",
+    "alias": "the Boy and His Yeti",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Ryze",
+    "alias": "the Rune Mage",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Sion",
+    "alias": "The Undead Juggernaut",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Sivir",
+    "alias": "the Battle Mistress",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Soraka",
+    "alias": "the Starchild",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Teemo",
+    "alias": "the Swift Scout",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Tristana",
+    "alias": "the Yordle Gunner",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Twisted Fate",
+    "alias": "the Card Master",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Warwick",
+    "alias": "the Uncaged Wrath of Zaun",
+    "releaseDate": "2009-02-21",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Singed",
+    "alias": "the Mad Chemist",
+    "releaseDate": "2009-04-18",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Zilean",
+    "alias": "the Chronokeeper",
+    "releaseDate": "2009-04-18",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Evelynn",
+    "alias": "Agony's Embrace",
+    "releaseDate": "2009-05-01",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Tryndamere",
+    "alias": "the Barbarian King",
+    "releaseDate": "2009-05-01",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Twitch",
+    "alias": "the Plague Rat",
+    "releaseDate": "2009-05-01",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Karthus",
+    "alias": "the Deathsinger",
+    "releaseDate": "2009-06-12",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Amumu",
+    "alias": "the Sad Mummy",
+    "releaseDate": "2009-06-26",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Cho'Gath",
+    "alias": "the Terror of the Void",
+    "releaseDate": "2009-06-26",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Anivia",
+    "alias": "the Cryophoenix",
+    "releaseDate": "2009-07-10",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Rammus",
+    "alias": "the Armordillo",
+    "releaseDate": "2009-07-10",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Veigar",
+    "alias": "the Tiny Master of Evil",
+    "releaseDate": "2009-07-24",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Kassadin",
+    "alias": "the Void Walker",
+    "releaseDate": "2009-08-07",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Gangplank",
+    "alias": "the Saltwater Scourge",
+    "releaseDate": "2009-08-19",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Taric",
+    "alias": "the Shield of Valoran",
+    "releaseDate": "2009-08-19",
+    "classes": [
+      "Enchanter",
+      "Warden"
+    ]
+  },
+  {
+    "name": "Blitzcrank",
+    "alias": "the Great Steam Golem",
+    "releaseDate": "2009-09-02",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Dr. Mundo",
+    "alias": "the Madman of Zaun",
+    "releaseDate": "2009-09-02",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Janna",
+    "alias": "the Storm's Fury",
+    "releaseDate": "2009-09-02",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Malphite",
+    "alias": "Shard of the Monolith",
+    "releaseDate": "2009-09-02",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Corki",
+    "alias": "the Daring Bombardier",
+    "releaseDate": "2009-09-19",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Katarina",
+    "alias": "the Sinister Blade",
+    "releaseDate": "2009-09-19",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Nasus",
+    "alias": "the Curator of the Sands",
+    "releaseDate": "2009-10-01",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Heimerdinger",
+    "alias": "the Revered Inventor",
+    "releaseDate": "2009-10-10",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Shaco",
+    "alias": "the Demon Jester",
+    "releaseDate": "2009-10-10",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Udyr",
+    "alias": "the Spirit Walker",
+    "releaseDate": "2009-12-02",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Nidalee",
+    "alias": "the Bestial Huntress",
+    "releaseDate": "2009-12-17",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Poppy",
+    "alias": "Keeper of the Hammer",
+    "releaseDate": "2010-01-13",
+    "classes": [
+      "Warden"
+    ]
+  },
+  {
+    "name": "Gragas",
+    "alias": "the Rabble Rouser",
+    "releaseDate": "2010-02-02",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Pantheon",
+    "alias": "the Unbreakable Spear",
+    "releaseDate": "2010-02-02",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Mordekaiser",
+    "alias": "the Iron Revenant",
+    "releaseDate": "2010-02-24",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Ezreal",
+    "alias": "the Prodigal Explorer",
+    "releaseDate": "2010-03-16",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Shen",
+    "alias": "the Eye of Twilight",
+    "releaseDate": "2010-03-24",
+    "classes": [
+      "Warden"
+    ]
+  },
+  {
+    "name": "Kennen",
+    "alias": "the Heart of the Tempest",
+    "releaseDate": "2010-04-08",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Garen",
+    "alias": "The Might of Demacia",
+    "releaseDate": "2010-04-27",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Akali",
+    "alias": "the Rogue Assassin",
+    "releaseDate": "2010-05-11",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Malzahar",
+    "alias": "the Prophet of the Void",
+    "releaseDate": "2010-06-01",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Olaf",
+    "alias": "the Berserker",
+    "releaseDate": "2010-06-09",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Kog'Maw",
+    "alias": "the Mouth of the Abyss",
+    "releaseDate": "2010-06-24",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Xin Zhao",
+    "alias": "the Seneschal of Demacia",
+    "releaseDate": "2010-07-13",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Vladimir",
+    "alias": "the Crimson Reaper",
+    "releaseDate": "2010-07-27",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Galio",
+    "alias": "the Colossus",
+    "releaseDate": "2010-08-10",
+    "classes": [
+      "Warden"
+    ]
+  },
+  {
+    "name": "Urgot",
+    "alias": "the Dreadnought",
+    "releaseDate": "2010-08-24",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Miss Fortune",
+    "alias": "the Bounty Hunter",
+    "releaseDate": "2010-09-08",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Sona",
+    "alias": "Maven of the Strings",
+    "releaseDate": "2010-09-21",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Swain",
+    "alias": "the Noxian Grand General",
+    "releaseDate": "2010-10-05",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Lux",
+    "alias": "the Lady of Luminosity",
+    "releaseDate": "2010-10-19",
+    "classes": [
+      "Burst",
+      "Artillery"
+    ]
+  },
+  {
+    "name": "LeBlanc",
+    "alias": "the Deceiver",
+    "releaseDate": "2010-11-02",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "alias": "the Blade Dancer",
+    "releaseDate": "2010-11-16",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Trundle",
+    "alias": "the Troll King",
+    "releaseDate": "2010-12-01",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Cassiopeia",
+    "alias": "the Serpent's Embrace",
+    "releaseDate": "2010-12-14",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Caitlyn",
+    "alias": "the Sheriff of Piltover",
+    "releaseDate": "2011-01-04",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Renekton",
+    "alias": "the Butcher of the Sands",
+    "releaseDate": "2011-01-18",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Karma",
+    "alias": "the Enlightened One",
+    "releaseDate": "2011-02-01",
+    "classes": [
+      "Burst",
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Maokai",
+    "alias": "the Twisted Treant",
+    "releaseDate": "2011-02-16",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Jarvan IV",
+    "alias": "the Exemplar of Demacia",
+    "releaseDate": "2011-03-01",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Nocturne",
+    "alias": "the Eternal Nightmare",
+    "releaseDate": "2011-03-15",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Lee Sin",
+    "alias": "the Blind Monk",
+    "releaseDate": "2011-04-01",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Brand",
+    "alias": "the Burning Vengeance",
+    "releaseDate": "2011-04-12",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Rumble",
+    "alias": "the Mechanized Menace",
+    "releaseDate": "2011-04-26",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Vayne",
+    "alias": "the Night Hunter",
+    "releaseDate": "2011-05-10",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Orianna",
+    "alias": "the Lady of Clockwork",
+    "releaseDate": "2011-06-01",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Yorick",
+    "alias": "Shepherd of Souls",
+    "releaseDate": "2011-06-22",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Leona",
+    "alias": "the Radiant Dawn",
+    "releaseDate": "2011-07-13",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Wukong",
+    "alias": "the Monkey King",
+    "releaseDate": "2011-07-26",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Skarner",
+    "alias": "the Crystal Vanguard",
+    "releaseDate": "2011-08-09",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Talon",
+    "alias": "the Blade's Shadow",
+    "releaseDate": "2011-08-24",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Riven",
+    "alias": "the Exile",
+    "releaseDate": "2011-09-14",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Xerath",
+    "alias": "the Magus Ascendant",
+    "releaseDate": "2011-10-05",
+    "classes": [
+      "Artillery"
+    ]
+  },
+  {
+    "name": "Graves",
+    "alias": "the Outlaw",
+    "releaseDate": "2011-10-19",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Shyvana",
+    "alias": "the Half-Dragon",
+    "releaseDate": "2011-11-01",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Fizz",
+    "alias": "the Tidal Trickster",
+    "releaseDate": "2011-11-15",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Volibear",
+    "alias": "the Relentless Storm",
+    "releaseDate": "2011-11-29",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Ahri",
+    "alias": "the Nine-Tailed Fox",
+    "releaseDate": "2011-12-14",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Viktor",
+    "alias": "the Machine Herald",
+    "releaseDate": "2011-12-29",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Sejuani",
+    "alias": "Fury of the North",
+    "releaseDate": "2012-01-17",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Ziggs",
+    "alias": "the Hexplosives Expert",
+    "releaseDate": "2012-02-01",
+    "classes": [
+      "Artillery"
+    ]
+  },
+  {
+    "name": "Nautilus",
+    "alias": "the Titan of the Depths",
+    "releaseDate": "2012-02-14",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Fiora",
+    "alias": "the Grand Duelist",
+    "releaseDate": "2012-02-29",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Lulu",
+    "alias": "the Fae Sorceress",
+    "releaseDate": "2012-03-20",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Hecarim",
+    "alias": "the Shadow of War",
+    "releaseDate": "2012-04-18",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Varus",
+    "alias": "the Arrow of Retribution",
+    "releaseDate": "2012-05-08",
+    "classes": [
+      "Marksman",
+      "Artillery"
+    ]
+  },
+  {
+    "name": "Darius",
+    "alias": "the Hand of Noxus",
+    "releaseDate": "2012-05-23",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Draven",
+    "alias": "the Glorious Executioner",
+    "releaseDate": "2012-06-06",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Jayce",
+    "alias": "the Defender of Tomorrow",
+    "releaseDate": "2012-07-07",
+    "classes": [
+      "Artillery"
+    ]
+  },
+  {
+    "name": "Zyra",
+    "alias": "Rise of the Thorns",
+    "releaseDate": "2012-07-24",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Diana",
+    "alias": "Scorn of the Moon",
+    "releaseDate": "2012-08-07",
+    "classes": [
+      "Assassin",
+      "Diver"
+    ]
+  },
+  {
+    "name": "Rengar",
+    "alias": "the Pridestalker",
+    "releaseDate": "2012-08-21",
+    "classes": [
+      "Assassin",
+      "Diver"
+    ]
+  },
+  {
+    "name": "Syndra",
+    "alias": "the Dark Sovereign",
+    "releaseDate": "2012-09-13",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Kha'Zix",
+    "alias": "the Voidreaver",
+    "releaseDate": "2012-09-27",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Elise",
+    "alias": "the Spider Queen",
+    "releaseDate": "2012-10-26",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Zed",
+    "alias": "the Master of Shadows",
+    "releaseDate": "2012-11-13",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Nami",
+    "alias": "the Tidecaller",
+    "releaseDate": "2012-12-07",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Vi",
+    "alias": "the Piltover Enforcer",
+    "releaseDate": "2012-12-19",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Thresh",
+    "alias": "the Chain Warden",
+    "releaseDate": "2013-01-23",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Quinn",
+    "alias": "Demacia's Wings",
+    "releaseDate": "2013-03-01",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Zac",
+    "alias": "the Secret Weapon",
+    "releaseDate": "2013-03-29",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Lissandra",
+    "alias": "the Ice Witch",
+    "releaseDate": "2013-04-30",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Aatrox",
+    "alias": "the Darkin Blade",
+    "releaseDate": "2013-06-13",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "alias": "the Purifier",
+    "releaseDate": "2013-08-22",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Jinx",
+    "alias": "the Loose Cannon",
+    "releaseDate": "2013-10-10",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Yasuo",
+    "alias": "the Unforgiven",
+    "releaseDate": "2013-12-13",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Vel'Koz",
+    "alias": "the Eye of the Void",
+    "releaseDate": "2014-02-27",
+    "classes": [
+      "Artillery"
+    ]
+  },
+  {
+    "name": "Braum",
+    "alias": "the Heart of the Freljord",
+    "releaseDate": "2014-05-12",
+    "classes": [
+      "Warden"
+    ]
+  },
+  {
+    "name": "Gnar",
+    "alias": "the Missing Link",
+    "releaseDate": "2014-08-14",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Azir",
+    "alias": "the Emperor of the Sands",
+    "releaseDate": "2014-09-16",
+    "classes": [
+      "Specialist"
+    ]
+  },
+  {
+    "name": "Kalista",
+    "alias": "the Spear of Vengeance",
+    "releaseDate": "2014-11-20",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Rek'Sai",
+    "alias": "the Void Burrower",
+    "releaseDate": "2014-12-11",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Bard",
+    "alias": "the Wandering Caretaker",
+    "releaseDate": "2015-03-12",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Ekko",
+    "alias": "the Boy Who Shattered Time",
+    "releaseDate": "2015-05-29",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Tahm Kench",
+    "alias": "The River King",
+    "releaseDate": "2015-07-09",
+    "classes": [
+      "Warden"
+    ]
+  },
+  {
+    "name": "Kindred",
+    "alias": "The Eternal Hunters",
+    "releaseDate": "2015-10-14",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Illaoi",
+    "alias": "the Kraken Priestess",
+    "releaseDate": "2015-11-24",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Jhin",
+    "alias": "the Virtuoso",
+    "releaseDate": "2016-02-01",
+    "classes": [
+      "Marksman",
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Aurelion Sol",
+    "alias": "The Star Forger",
+    "releaseDate": "2016-03-24",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Taliyah",
+    "alias": "the Stoneweaver",
+    "releaseDate": "2016-05-18",
+    "classes": [
+      "Battlemage"
+    ]
+  },
+  {
+    "name": "Kled",
+    "alias": "the Cantankerous Cavalier",
+    "releaseDate": "2016-08-10",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Ivern",
+    "alias": "the Green Father",
+    "releaseDate": "2016-10-05",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Camille",
+    "alias": "the Steel Shadow",
+    "releaseDate": "2016-12-07",
+    "classes": [
+      "Diver"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "alias": "The Charmer",
+    "releaseDate": "2017-04-19",
+    "classes": [
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Xayah",
+    "alias": "the Rebel",
+    "releaseDate": "2017-04-19",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Kayn",
+    "alias": "the Shadow Reaper",
+    "releaseDate": "2017-07-12",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Ornn",
+    "alias": "The Fire below the Mountain",
+    "releaseDate": "2017-08-23",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Zoe",
+    "alias": "the Aspect of Twilight",
+    "releaseDate": "2017-11-21",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Kai'Sa",
+    "alias": "Daughter of the Void",
+    "releaseDate": "2018-03-07",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Pyke",
+    "alias": "the Bloodharbor Ripper",
+    "releaseDate": "2018-05-31",
+    "classes": [
+      "Assassin",
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Neeko",
+    "alias": "the Curious Chameleon",
+    "releaseDate": "2018-12-05",
+    "classes": [
+      "Burst",
+      "Catcher"
+    ]
+  },
+  {
+    "name": "Sylas",
+    "alias": "the Unshackled",
+    "releaseDate": "2019-01-25",
+    "classes": [
+      "Burst",
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Yuumi",
+    "alias": "the Magical Cat",
+    "releaseDate": "2019-05-14",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Qiyana",
+    "alias": "Empress of the Elements",
+    "releaseDate": "2019-06-28",
+    "classes": [
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Senna",
+    "alias": "the Redeemer",
+    "releaseDate": "2019-11-10",
+    "classes": [
+      "Marksman",
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Aphelios",
+    "alias": "the Weapon of the Faithful",
+    "releaseDate": "2019-12-11",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Sett",
+    "alias": "the Boss",
+    "releaseDate": "2020-01-14",
+    "classes": [
+      "Juggernaut"
+    ]
+  },
+  {
+    "name": "Lillia",
+    "alias": "the Bashful Bloom",
+    "releaseDate": "2020-07-22",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Yone",
+    "alias": "the Unforgotten",
+    "releaseDate": "2020-08-06",
+    "classes": [
+      "Assassin",
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Samira",
+    "alias": "the Desert Rose",
+    "releaseDate": "2020-09-21",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Seraphine",
+    "alias": "the Starry-Eyed Songstress",
+    "releaseDate": "2020-10-29",
+    "classes": [
+      "Burst",
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Rell",
+    "alias": "the Iron Maiden",
+    "releaseDate": "2020-12-10",
+    "classes": [
+      "Vanguard"
+    ]
+  },
+  {
+    "name": "Viego",
+    "alias": "The Ruined King",
+    "releaseDate": "2021-01-21",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Gwen",
+    "alias": "The Hallowed Seamstress",
+    "releaseDate": "2021-04-15",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Akshan",
+    "alias": "the Rogue Sentinel",
+    "releaseDate": "2021-07-22",
+    "classes": [
+      "Marksman",
+      "Assassin"
+    ]
+  },
+  {
+    "name": "Vex",
+    "alias": "the Gloomist",
+    "releaseDate": "2021-09-23",
+    "classes": [
+      "Burst"
+    ]
+  },
+  {
+    "name": "Zeri",
+    "alias": "The Spark of Zaun",
+    "releaseDate": "2022-01-20",
+    "classes": [
+      "Marksman"
+    ]
+  },
+  {
+    "name": "Renata Glasc",
+    "alias": "the Chem-Baroness",
+    "releaseDate": "2022-02-17",
+    "classes": [
+      "Enchanter"
+    ]
+  },
+  {
+    "name": "Bel'Veth",
+    "alias": "the Empress of the Void",
+    "releaseDate": "2022-06-09",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Nilah",
+    "alias": "the Joy Unbound",
+    "releaseDate": "2022-07-13",
+    "classes": [
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "K'Sante",
+    "alias": "The Pride of Nazumah",
+    "releaseDate": "2022-11-02",
+    "classes": [
+      "Warden",
+      "Skirmisher"
+    ]
+  },
+  {
+    "name": "Milio",
+    "alias": "The Gentle Flame",
+    "releaseDate": "2023-03-23",
+    "classes": [
+      "Enchanter"
+    ]
+  }
+]
